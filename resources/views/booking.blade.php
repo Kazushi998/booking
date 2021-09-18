@@ -18,7 +18,7 @@
           <x-validation-errors />
           <div class="uk-card uk-box-shadow-small" style="background-color:#ffffff; border-radius: 15px;">
             <div class="uk-card-header">
-              <h2 id="tukar" class="uk-text-center">{{ ('Tempahan Baharu') }}</h2>
+              <h2 class="uk-text-center">{{ ('Tempahan Baharu') }}</h2>
 
               <hr>
             </div>
@@ -64,7 +64,7 @@
                 </div>
 
                 <div class="uk-margin">
-                  <label class="uk-form-label">{{ ('Bilik Mesyuarat') }}</label>
+                  <label class="uk-form-label">{{ ('Bilik') }}</label>
 
                   <div class="uk-inline uk-width-1-1">
                     <select id="room" name="room" required onchange="changeBilik()" >
