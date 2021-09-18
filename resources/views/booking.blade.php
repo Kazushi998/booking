@@ -2,8 +2,6 @@
 
 @section('content')
 
-abc
-
 <section class="uk-section" style="background-image: linear-gradient(0deg, rgba(34,195,169,1) 0%, rgba(255,225,200,1) 100%);">
   
     <div class="uk-container">
